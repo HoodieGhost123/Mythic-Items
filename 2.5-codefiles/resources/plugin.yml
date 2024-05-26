@@ -1,0 +1,21 @@
+name: MythicItems
+version: '${project.version}'
+main: me.hoodieghost.MythicItems.MythicItems
+api-version: '1.20'
+commands:
+  jump:
+    description: Launches the player in the air
+  ender-perl-bow:
+    description: gives the player an ender perl bow
+  jesuspotato:
+    description: Gives you a Jesus Potato
+    usage: /jesuspotato
+  infernoblade:
+    description: Gives you an Inferno Blade
+    usage: /infernoblade
+  lifestealer:
+    description: Gives you a lifestealer
+    usage: /lifestealer
+  metaldetector:
+    description: Gives you a Metal Detector
+    usage: /metaldetector
